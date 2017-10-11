@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardCorberRadius">4dp</dimen>
+    <dimen name="cardElevation">5dp</dimen>
+    <dimen name="marginAll">10dp</dimen>
+    <dimen name="list_image_height">120dp</dimen>
+    <dimen name="list_image_width">60dp</dimen>
+</resources>
